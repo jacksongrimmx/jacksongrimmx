@@ -9,7 +9,7 @@
 [![YouTube - Jackson Grim](https://img.shields.io/badge/YouTube%20@JacksonGrim-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JacksonGrim)  
 [![Instagram - jacksongrimmx](https://img.shields.io/badge/Instagram%20@jacksongrimmx-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacksongrimmx/)
 [![TikTok - jacksongrimmx](https://img.shields.io/badge/TikTok%20@jacksongrimmx-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jacksongrimmx?lang=en)  
-[![Spotify](https://img.shields.io/badge/Spotify%20Artist-%40Rabbit%20Hole-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1qH02FBujZWPWzTFXAQVKZ?si=vf6WQDFDSwiG17fBFCTPiQ)
+[![Spotify](https://img.shields.io/badge/Spotify%20Artist-%40Jackson%20Grim-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1qH02FBujZWPWzTFXAQVKZ?si=vf6WQDFDSwiG17fBFCTPiQ)
 
 ## Interests
 
