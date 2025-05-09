@@ -1,5 +1,9 @@
 # 👋 Hello! I'm Jackson Grim
 
+<a href="https://www.tiktok.com/@el_inge_legendario?lang=en" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%40el_inge_legendario-red?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok">
+</a>
+
 💻 I'm a DevOps Engineer passionate about:
 - 🐍 Python
 - ☁️ Azure & Kubernetes
