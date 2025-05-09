@@ -3,6 +3,16 @@
 🎯 Technology consultant with over **15 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
 🚀 Specialized in scaling cloud platforms, developing innovative solutions, and guiding companies toward technological maturity and digital transformation.
 
+## ❤️ Support My Work
+
+If you like what I do and want to be part of something bigger, consider becoming a sponsor.
+
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20@jacksongrimmx-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jacksongrimmx)
+
+### 🌎 My Mission
+I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
+Your support helps me share knowledge, build tools, and create a better future through education and innovation.
+
 ## 🌐 Follow Me
 
 [![TikTok - el_inge_legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
