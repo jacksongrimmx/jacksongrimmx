@@ -1,8 +1,10 @@
 # 👋 Hello! I'm Jackson Grim
 
-<a href="https://www.tiktok.com/@el_inge_legendario?lang=en" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%40el_inge_legendario-red?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok">
-</a>
+<p align="left">
+  <a href="https://www.tiktok.com/@el_inge_legendario?lang=en" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="40" height="40"/>
+  </a>
+</p>
 
 💻 I'm a DevOps Engineer passionate about:
 - 🐍 Python
