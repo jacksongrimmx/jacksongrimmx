@@ -7,7 +7,7 @@
 
 If you like what I do and want to be part of something bigger, consider becoming a sponsor.
 
-[![Sponsor me](https://img.shields.io/badge/Sponsor%20@jacksongrimmx-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jacksongrimmx)
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20@JacksonGrim-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jacksongrimmx)
 
 ### 🌎 My Mission
 I want to earn enough to launch **social programs that teach science and technology** to underserved communities in my country.  
