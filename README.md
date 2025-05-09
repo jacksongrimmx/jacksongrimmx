@@ -6,10 +6,11 @@
 ## 🌐 Follow Me
 
 [![TikTok - el_inge_legendario](https://img.shields.io/badge/TikTok%20@el_inge_legendario-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@el_inge_legendario?lang=en)
-[![TikTok - jacksongrimmx](https://img.shields.io/badge/TikTok%20@jacksongrimmx-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jacksongrimmx?lang=en)  
 [![YouTube - Jackson Grim](https://img.shields.io/badge/YouTube%20@JacksonGrim-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JacksonGrim)  
 [![Instagram - jacksongrimmx](https://img.shields.io/badge/Instagram%20@jacksongrimmx-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jacksongrimmx/)
+[![TikTok - jacksongrimmx](https://img.shields.io/badge/TikTok%20@jacksongrimmx-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jacksongrimmx?lang=en)  
 
+## Interests
 
 💻 I'm a Reliability Architect & DevOps Engineer driven by a deep passion for:
 - 🧠 Artificial Intelligence  
