@@ -6,6 +6,8 @@
 
 ## Compra una playera
 
+![Merch](https://static.wixstatic.com/media/07ff59_dcff35fea49a4a4093daeac1738f90d6~mv2.png)
+
 [Merchandize](https://jackson-grim.creator-spring.com/)
 
 ## 👋 About Me
