@@ -4,6 +4,10 @@
 
 [**🎟️ Buy tickets here**](https://www.redboyconsulting.com/)
 
+## Compra una playera
+
+[Merchandize](https://jackson-grim.creator-spring.com/)
+
 ## 👋 About Me
 
 🎯 Technology consultant with over **15 years of experience** driving automation, reliability, and AI initiatives across enterprise environments.  
