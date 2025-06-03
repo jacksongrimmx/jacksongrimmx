@@ -2,7 +2,7 @@
 
 ![Next Courses](https://static.wixstatic.com/media/07ff59_e35c644a45fd4abaa9cd950b4be03f0d~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/eventos)
 
 ## Merchandize
 
