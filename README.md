@@ -6,7 +6,7 @@
 
 ## Merchandize
 
-[Buy Here](https://www.redboyconsulting.com/category/all-products)
+[**💰Buy Here**](https://www.redboyconsulting.com/category/all-products)
 
 ![Merch](https://static.wixstatic.com/media/07ff59_dcff35fea49a4a4093daeac1738f90d6~mv2.png)
 
