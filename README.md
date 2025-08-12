@@ -1,8 +1,8 @@
 # Next Courses
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_2a3be59e9b9e46fe818b8bd65d194b80~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_b2f60252916f4005993fd0c905ff6f2b~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-2)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/crea-tu-empresa-app-de-angular-y-vendela)
 
 ## Merchandize
 
