@@ -1,8 +1,8 @@
 # Next Courses
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_b2f60252916f4005993fd0c905ff6f2b~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_8353ff069707463bab959caedc6c17fb~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/crea-tu-empresa-app-de-angular-y-vendela)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers)
 
 ## Merchandize
 
