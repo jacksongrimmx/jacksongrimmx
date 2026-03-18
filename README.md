@@ -1,8 +1,8 @@
 # Next Courses
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_c4d7da8d936144c2a2e2eff8142869cc~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_8bee9893f3ef4ce68b8afa8594b3f6e8~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers-3)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers-abril)
 
 ## Merchandize
 
